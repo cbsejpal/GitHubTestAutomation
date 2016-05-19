@@ -1,0 +1,11 @@
+src/com/*.log*
+/src/com/*.log*
+
+resources
+/resources
+
+/bin
+bin
+
+/bin/com/
+bin/com/
